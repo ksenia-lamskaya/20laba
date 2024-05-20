@@ -1,0 +1,12 @@
+name: 20laba
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.1
+  - black
+  - isort
+  - flake8
+  - pre-commit
+  - click
+  - jsonschema
